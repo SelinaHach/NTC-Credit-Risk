@@ -1,5 +1,3 @@
-# NTC-Credit-Risk
-
 # NTC Consumer Credit — ML Pipeline
 
 Predicting charge-off risk for **New-To-Credit (NTC)** consumers — young adults aged 18–25 with little or no credit history. The goal is to help lenders make smarter approval decisions in an underserved segment without over-rejecting potentially good customers.
